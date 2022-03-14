@@ -4,8 +4,8 @@
 
 🌱 Currently, using github to develop and showcase my applications.
 
-- 📫 How to reach me: blehjooo@gmail.com
+📫 How to reach me: blehjooo@gmail.com
 
-- 😄 Pronouns: He/ Him/ His
+😄 Pronouns: He/ Him/ His
 
-- ⚡ Fun fact: My name is pronounced like 'blay'
+⚡ Fun fact: My name is pronounced like 'blay'
