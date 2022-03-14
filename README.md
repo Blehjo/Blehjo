@@ -6,6 +6,6 @@
 
 📫 How to reach me: blehjooo@gmail.com
 
-😄 Pronouns: He/ Him/ His
-
 ⚡ Fun fact: My name is pronounced like 'blay'
+
+😄 Pronouns: He/ Him/ His
