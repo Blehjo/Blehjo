@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am an aspiring software engineer with a background in public health. 
+🔭 I am a full-stack software developer with a background in public health. 
 
 🌱 Currently, using github to develop and showcase my applications.
 
