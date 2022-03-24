@@ -8,4 +8,4 @@
 
 ⚡ Fun fact: My name is pronounced like 'blay'
 
-😄 Pronouns: He/ Him/ His
+😄 Pronouns: He/ Him
