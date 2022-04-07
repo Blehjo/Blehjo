@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Full-stack software developer with a background in public health. 
+🔭 Full-stack software engineer with a background in public health. 
 
 🌱 Currently, using github to develop and showcase my applications.
 
