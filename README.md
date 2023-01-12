@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🔭 Full-stack software engineer with a background in public health. 
+🔭 Full-stack software engineer
 
-🌱 Currently, using github to develop and showcase my applications.
+🌱 Currently, using github to develop and showcase my applications
 
 🎨 Artist when I'm not coding [Bleh Nmah](https://blehnmah.azurewebsites.net/)
 
-📫 How to reach me: blehjooo@gmail.com
+📫 How to reach me: bseton11@gmail.com
 
 ⚡ Fun fact: Name is pronounced like 'blay'
 
