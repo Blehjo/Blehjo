@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Full-stack software engineer
+🔭 Full stack software engineer
 
 🌱 Currently, using github to develop and showcase my applications
 
