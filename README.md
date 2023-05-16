@@ -9,5 +9,3 @@
 📫 How to reach me: bseton11@gmail.com
 
 ⚡ Fun fact: Name is pronounced like 'blay'
-
-😄 Pronouns: He/ Him
